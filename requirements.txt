@@ -26,7 +26,7 @@ gitdb=4.0.9=pypi_0
 gitpython=3.1.26=pypi_0
 google-auth=2.3.3=pypi_0
 google-auth-oauthlib=0.4.6=pypi_0
-grpcio=1.42.0=pypi_0
+grpcio=1.53.0=pypi_0
 idna=3.3=pypi_0
 importlib-metadata=4.8.2=pypi_0
 iniconfig=1.1.1=pyhd3eb1b0_0
